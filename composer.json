@@ -1,0 +1,15 @@
+{
+    "name": "mac/composer_test",
+    "type": "php",
+    "require": {
+        "monolog/monolog": "^1.22"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ccq18",
+            "email": "348578429@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
