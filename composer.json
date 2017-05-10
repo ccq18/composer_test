@@ -1,9 +1,6 @@
 {
     "name": "ccq18/composer_test",
     "type": "php",
-    "require": {
-        "monolog/monolog": "^1.22"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -11,5 +8,5 @@
             "email": "348578429@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "0.1"
 }
