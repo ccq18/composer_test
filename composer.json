@@ -1,5 +1,5 @@
 {
-    "name": "mac/composer_test",
+    "name": "ccq18/composer_test",
     "type": "php",
     "require": {
         "monolog/monolog": "^1.22"
