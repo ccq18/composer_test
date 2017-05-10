@@ -10,5 +10,7 @@
             "name": "ccq18",
             "email": "348578429@qq.com"
         }
-    ]
+    ],
+    "minimum-stability":"dev"
+
 }
