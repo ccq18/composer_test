@@ -1,12 +1,14 @@
 {
     "name": "ccq18/composer_test",
-    "type": "php",
+    "description": "composer_test",
+    "keywords": ["composer_test"],
+
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "ccq18",
             "email": "348578429@qq.com"
         }
-    ],
-    "minimum-stability": "0.1"
+    ]
 }
